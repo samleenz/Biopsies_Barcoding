@@ -9,7 +9,7 @@ Code associated with the manuscript *Genetic barcoding uncovers the clonal makeu
 ## Helpful links
 
 - [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2025.06.12.659267v1)
-- Barcode-seq reads: *SRA processing files*
+- Barcode-seq reads: Available from SRA at PRJNA1368999 once the paper has been accepted.
 
 ## generate barcode counts
 
